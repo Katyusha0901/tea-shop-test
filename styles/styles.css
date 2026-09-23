@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* margin: 25px; */
+
+  margin: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #202020;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  background: rgb(251, 251, 251);
+}
+
+@media screen and (max-width: 755px) {
+  body {
+    margin: 25px;
+  }
+}

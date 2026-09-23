@@ -63,6 +63,15 @@
   stroke: black !important;
 }
 
+.saved {
+  border: 1px solid black;
+  background-color: #f7d6d0;
+}
+.saved path {
+  stroke: black;
+}
+
+
 .description__title {
   font-size: 20px;
 }
@@ -147,7 +156,6 @@
 .description__basket-button:hover circle {
   stroke: rgb(245, 215, 48) !important;
 }
-
 
 .description__basket-button div {
   font-size: 10px;

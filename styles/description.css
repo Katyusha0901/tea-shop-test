@@ -31,6 +31,10 @@
   fill: #0056b3 !important;
 }
 
+.description__text {
+  user-select: none;
+}
+
 .description__icon {
   display: flex;
 

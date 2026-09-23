@@ -127,6 +127,7 @@
   padding: 0;
 
   cursor: pointer;
+  user-select: none;
   transition: all .3s ease;
 
   background-color: rgb(233, 242, 195);
@@ -145,6 +146,21 @@
 .description__basket-button:hover path,
 .description__basket-button:hover circle {
   stroke: rgb(245, 215, 48) !important;
+}
+
+
+.description__basket-button div {
+  font-size: 10px;
+
+  margin-top: 10px;
+
+  transition: all .3s ease;
+
+  color: rgb(68, 68, 68);
+}
+
+.description__basket-button:hover div {
+  color: rgb(245, 215, 48) !important;
 }
 
 .description__short-information {

@@ -1,5 +1,5 @@
 <h1>Тестовое задание tea-shop-test</h1>
-<p><a href="https://teaboom.ru/product/ananasovij-ulun">Здесь</a> пример страницы. </p>
+<p><a href="https://teaboom.ru/product/ananasovij-ulun">Пример страницы</a>. </p>
 <p>Вы можете посмотреть мою работу <a href="https://katyusha0901.github.io/tea-shop-test/"> здесь</a>. </p>
 
 <h2>Технологии</h2>
